@@ -51,6 +51,9 @@ html {
 @-ms-viewport {
   width: device-width; }
 
+/* nav{
+  background-color: #252525;
+} */
 article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block; }
 
@@ -7303,12 +7306,12 @@ h1, h2, h3, h4, h5,
   color: #f86f2d !important; }
 
 .ftco-navbar-light {
-  background: transparent !important;
+  background: #252525 !important;
   position: absolute;
   left: 0;
   right: 0;
   z-index: 3;
-  top: 10px; }
+   }
   @media (max-width: 991.98px) {
     .ftco-navbar-light {
       background: #000 !important;
